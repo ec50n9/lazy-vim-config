@@ -3,4 +3,4 @@
 -- Add any additional keymaps here
 
 local map = vim.keymap.set
-map('i', 'jk', '<Esc>', { noremap = true })
+map("i", "jk", "<Esc>", { noremap = true })
